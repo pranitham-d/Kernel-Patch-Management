@@ -192,7 +192,7 @@ Enter second kernel version to keep: kernel-5.14.0-570.51.1.el9_6
 🖥️ *Linux Automation & Infrastructure Engineer*  
 💬 “Everything about Linux automation excites me — this project embodies that passion.”  
 
-🌐 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/pranitham-devarakonda/)) • 🐙 [GitHub](https://github.com/pranitham-d)  
+🌐 [LinkedIn](https://www.linkedin.com/in/pranitham-devarakonda/) • 🐙 [GitHub](https://github.com/pranitham-d)  
 
 ---
 
