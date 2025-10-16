@@ -15,6 +15,8 @@ It automates kernel updates, cleanup, and reboots across multiple servers — en
 
 🧩 **Ideal for:** DevOps Engineers, Linux Administrators, and Infrastructure Teams managing large-scale RHEL environments.
 
+📦 Repository: [Patch-Management](https://github.com/pranitham-d/Kernel-Patch-Management)
+
 ---
 
 ## ✨ Features
@@ -55,8 +57,8 @@ It automates kernel updates, cleanup, and reboots across multiple servers — en
 
 ### 🔹 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/kernel-patch-automation.git
-cd kernel-patch-automation
+git clone https://github.com/pranitham-d/Kernel-Patch-Management.git
+cd Kernel-Patch-Management
 ```
 
 ### 🔹 2. Make the Script Executable
@@ -190,7 +192,7 @@ Enter second kernel version to keep: kernel-5.14.0-570.51.1.el9_6
 🖥️ *Linux Automation & Infrastructure Engineer*  
 💬 “Everything about Linux automation excites me — this project embodies that passion.”  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/) • 🐙 [GitHub](https://github.com/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/) • 🐙 [GitHub](https://github.com/pranitham-d)  
 
 ---
 
